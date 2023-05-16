@@ -1,0 +1,23 @@
+body{
+    background: aqua;
+}
+.container{
+    border:red 10px solid;
+}
+#divHead{
+    border: 2px red solid;
+    display: flex;
+    width: 20%;
+    
+}
+#divHeadLeft{
+    align-items: start;
+}
+#divMain{
+    border: 2px red solid;
+    width: 20%;
+}
+#divFooter{
+    border: 2px red solid;
+    width: 20%;
+}
