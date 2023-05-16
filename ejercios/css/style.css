@@ -1,0 +1,56 @@
+
+.div1Fondo{
+background-image: url(../img/f01.png);
+background-repeat:repeat;
+width: 209px;
+height: 114px;
+}
+.div1Mario{
+    border: blue 3px solid;
+    background-image: url(../img/f02.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 206px;
+    height: 112px;
+}
+.div1azul{
+    background-color: skyblue;
+    width: 209px;
+    height: 100px;
+}
+.div1cielo{
+    background-image: url(../img/f03.png);
+    background-repeat:no-repeat;
+    width: 206px;
+    height: 113px;
+}
+.divnubes{
+    background-image: url(../img/f03.png);
+    width: 239px;
+    height: 113px;
+}
+#div2Fondo{
+    margin: 15px;
+    border: red 5px solid;
+    background-image: url(../img/f01.png);
+    width: 400px;
+    height: 393px;
+}
+#div2Azul{
+    background-color: skyblue;
+    width: 400px;
+    height: 380px;
+}
+#div2Cielo{
+    background-image: url(../img/f03.png);
+    width: 400px;
+    height: 22%;
+}
+#div2mario{
+    width: 60%;
+    height: 82%;
+    background-repeat: no-repeat; 
+    display: flex;
+    align-items:end;
+    justify-content: end;
+}
